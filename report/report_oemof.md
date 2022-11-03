@@ -1,11 +1,9 @@
 # oemof - open energy modelling framework
+> A modular open source framework to energy supply systems
 
+## What is oemof?
 
-## What is <software_name>?
-
-Some short description what the software is about. If you cite from the software's website, use
-
-> some citation
+Oemeof represents different libraries to evaluate and simulate energy systems. It is a publicly organized framework, which is developed and maintained by many research engineers voluntary.
 
 ## How does it work?
 
